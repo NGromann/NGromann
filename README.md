@@ -1,4 +1,4 @@
-Hello 👋 I‘m Niklas, a Product Manager and Software engineer. Here you can find some of my personal projects.
+Hello 👋 I‘m Niklas, a Product Manager and Software engineer working at [Jedox](https://jedox.com). Here you can find some of my personal projects.
 
 ## Professional Projects
 ### PlanBuildPro
